@@ -18,14 +18,16 @@ Hi, I'm William Chen, a Cybersecurity major with hands-on experience in configur
   - Implemented security protocols for data protection
   - Managed software and hardware systems for smooth operation
 
-- **[Project Name]**
-  - Developed a [brief description of the project]
-  - Utilized [technologies used] to implement [specific features]
-
-- **[Another Project Name]**
-  - Focused on [describe project goal]
-  - Leveraged [technologies] to achieve [outcome]
+**Asian Restaurant Website**
+  - Developed a fully responsive website for a fictional Asian restaurant.
+  - Utilized **HTML**, **CSS**, and **JavaScript** to create a modern and user-friendly design.
+  - Integrated a menu display and online reservation system to enhance user interaction.
+  - 
+**Cybersys (IT Technician)**
+  - Configured secure networks and handled troubleshooting.
+  - Implemented security protocols for data protection.
+  - Managed software and hardware systems for smooth operation.
 
 ## Contact
 
-Feel free to connect with me on [LinkedIn](your-linkedin-url) or reach out via email at [your-email@example.com].
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/william-chen-a3723a22a) or reach out via email at che22021@byui.edu.
