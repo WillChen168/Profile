@@ -1,3 +1,9 @@
+
+
+![48270515_10218974276896936_1734516250362511360_n](https://github.com/user-attachments/assets/69ca20bf-0fb7-41bc-b60b-05969946bfa8)
+
+
+
 # About Me
 
 Hi, I'm William Chen, a Cybersecurity major with hands-on experience in configuring and securing networks. I have previously worked as an IT technician at Cybersys, where I developed practical skills in network management and system hardening. I'm passionate about solving cybersecurity challenges and constantly seeking opportunities to grow my knowledge.
